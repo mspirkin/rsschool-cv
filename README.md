@@ -1,1 +1,1 @@
-[GitHub Mspirkin]https://mspirkin.github.io/rsschool-cv/cv
+[GitHub Mspirkin]https://mspirkin.github.io/rsschool-cv/
